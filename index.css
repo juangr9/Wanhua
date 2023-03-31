@@ -97,7 +97,7 @@ header a:hover{
     color: white;
 }
 
-#somos-zapas .container{
+#somos-wanhua .container{
     text-align: center;
     padding: 200px 12px;
 }
@@ -174,11 +174,11 @@ header a:hover{
         font-size: 5em;
     }
 
-    #somos-zapas .container{
+    #somos-wanhua .container{
         display: flex;
         justify-content: space-evenly;
     }
-    #somos-zapas .texto{
+    #somos-wanhua .texto{
         width: 50%;
         max-width: 600px;
         text-align: initial;
@@ -188,11 +188,11 @@ header a:hover{
         flex-direction: column;
         justify-content: center;
     }
-    #somos-zapas h2{
+    #somos-wanhua h2{
         margin-top: opx;
     }
 
-    #somos-zapas .img-container{
+    #somos-wanhua .img-container{
         background-image: url("foto/somos-zapas.jpg");
         background-size: cover;
         background-position: center center;
